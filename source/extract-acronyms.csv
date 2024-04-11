@@ -1,0 +1,259 @@
+﻿Acronym/Jargon,What does it stand for?,Explanation
+.X.400,,The International Telegraph & Telephone Consultative Committee standard that defines technical specifications for message handling services such as electronic mail under the Open Systems Interconnection model. 
+<5hr RiSLA,Resolved In Service Level Agreement (Resolved in SLA) for <5hr tickets,Percentage resolved within service level  for less than 5hr tickets (priority tickets)
+1SF,ONE SALES FORCE,
+2G/3G/4G,2G/3G/4G,"2nd 3rd and 4th generation mobile telephony network, enabling the mobile communications and data transfers, making up our network"
+2W,Two Wires,A line comprising two physical wires that is used by all regular telephones. for dial-up telephony and baseband applications. 
+3G,Third Generation Mobile Services ,
+4W,Four Wires,A line comprising four physical wires that is used for high-speed point-to-point communications
+802.x,,Set of IEEE standards for the definition of LAN products 
+AAL,soc,The AAL enables engineers to adapt the ATM layer to particular services. It lies between the ATM layer and the higher layers and maps or adapts the functions or services of the higher layers onto a common ATM bearer service 
+AAR,Automatic Alternative Routing,A system for providing continued telecommunications service in the event that a primary transmission route fails catastrophically 
+Aban,Calls Abandoned,
+ABD,Calls Abandoned,
+ABM,Asynchronous Balanced Mode,HDLC and derivative protocol communication mode supporting peer-oriented
+ABR,Available Bit Rate,QoS class defined by the ATM Forum for ATM networks. ABR is used for connections that do not require timing relationships between source and destination. ABR provides no guarantees in terms of cell loss or delay
+ACD,Automatic Call Distributer,"he telephone system that takes all the calls either coming into (or going out) of a centre and directs each call to the right person or team to answer, queuing the calls where necessary"
+ACDS,Automatic Call Distribution Systems,Used by telephone companies and private businesses for managing high volumes of incoming calls 
+ACG,Access Control Gateway,provides a secure and scalable remote access capability for Vodafone UK's third party suppliers to connect to Vodafone servers and applications in order to deliver their contracted service
+Achievement of Results,,Achievement of Results is that stage of the Buying Cycle which follows on from the buying decision. This is where the client or customer puts what has been bought into action
+ACK,Acknowledgement Code,A method in which one or more characters are generated at a receiving device to indicate the information has been received correctly 
+ACM,Avaya Call Manager,"The core telephony server for Avaya IPT solutions, this contains all of the programming for the system configuration and call routing and is used to control the IP Handsets"
+ACS,Access control system,
+ACS,Asynchronous Communications Server,A LAN server that enables a network user to dial out of the network and into the public switched telephone network PSTN
+ACSE,Association Control Service Element, OSI convention used to establish
+ACTE,Approvals Committee for Terminal Equipment ,
+Action List,,A controlled document forming part of a BCP. Defines a trigger
+Active LSC processor,,The LSC processor which is currently in control 
+ActiveX,,"a software framework created by Microsoft which adapts its earlier Component Object Model (COM) and Object Linking and Embedding (OLE) technologies for content downloaded from a network,"
+Activity,,The on-going work of a resource or as set of resources for a particular purpose. Combined to deliver revenue-generating services to the customer. 
+Activity BCP,,A BCP that covers the sustaining of one or several activities disrupted by the unavailability of resources. 
+ACU,Automatic Calling Unit,The automatic generation of calls from a computer over a telecommunications network. Typically used to test telecoms networks under load. 
+ACW,Average Call Wait Time,Average time spent between calls
+Adaptive Equalisation,,A technique that allows a modem to continuously analyze and compensate for variations in the quality of a telephone line 
+Adaptive Routing,,A form of routing in which messages are forwarded through the network along the most cost-effective path available. Messages are automatically rerouted as required by changes in the network topology if
+Address,,A set of numbers that uniquely identifies something: a workstation on a LAN
+ADM,,Add / Drop Multiplexer. In OSS
+ADO,ActiveX Data Objects,a set of COM objects for accessing data sources.
+ADP,Automatic Data Processing ,
+ADS,Asynchronous Data Switching,
+ADSL,Asymmetric Digital Subscriber Line,"A form of the Digital Subscriber Line technology, a data communications technology that enables faster data transmission over copper telephone lines than a conventional voiceband modem can provide. It does this by utilizing frequencies that are not used b"
+Advice,,Customer requests activity which is not an incident
+ADVICE (ADV),,A customer requested activity which is not an incident
+ADVOCATE,,The person who receives and makes customer telephone call
+AECMA,Association Europeenne des Constructeurs de Materiel Aerospatial,European Association for the Construction of Aerospace Equipment 
+AEE,Association Electrotecnica ,Electrotechnical Association 
+AENOR,Association Espanola de Normalizacion Standards Association,
+AF,Audio Frequency ,
+AFNOR,Association Francaise de Normalisation,Standards Association
+AFUTT,Association Francaise de Telephone et des Telecommunications,French Telegraph & Telephone Users Association 
+Aged WIP,Aged WIP,Usually 'aged WIP' means tickets that have aged for more than 14days (>14 days)
+AGENT,,The person who receives and makes customer telephone call
+Aggregate Bandwidth,,The total bandwidth of channel carrying a multiplexed bit stream 
+Agile software development,,"a group of software development methods in which requirements and solutions evolve through collaboration between self-organizing, cross-functional teams. It promotes adaptive planning, evolutionary development, early delivery, continuous improvement and encourages rapid and flexible response to change."
+AGW,Access Gateway,
+AHT,Average Handle Time,The amount of time it takes an Agent to deal with all aspects of a call – includes talk time plus after call work
+AIC,Avaya interaction centres. ,
+AIC / AIFC,Audio Interface Card ,
+AIFF,,A popular MAC format for sound files 
+AIS,,Alarm Indication Signal. In a T1 transmission
+AJAX,Asynchronous JavaScript + XML,a group of interrelated Web development techniques used on the client-side to create asynchronous Web applications
+AKJ ,Aurora Kendrick James,
+ALE,Approval Liaison Engineer UK ,
+Algorithm,,A series of instructions or procedural steps for the solution of a specific problem 
+All Incidents ,,All closed incident tickets in the reporting period 
+Alleviation of Risk,,Alleviation of Risk is the third stage of the Buying Cycle. This is the stage where the client or customer worries about what might go wrong with the preferred alternative. This is especially a concern where a new product or a new supplier is being considered. 
+Allocative Efficiency,,Achieved when prices are too close to cost: this ensures that all consumers who value a product at more than its cost are able to purchase it. 
+ALOHA,,Time slot in the forward 'control' channel in which communication from mobile units is invited. Sent by a TSC
+Alternate Routing,,A mechanism that selects an alternate route if a previous connection attempt fails 
+Anchor,,The anchor tag <A> is used to define both anchors and links. An anchor is a named place in a document that other documents can form a link to . 
+Ans,Calls Answered,
+ANSI,American National Standards Institute,ANSI creates standards for networking and communications. It is the US representative to ISO 
+AOD,Avaya orchestration designer,
+AOD,call routing platform,
+AP,Access Provider,
+APA,Access Provided Architecture,The specifications of a system and the method in which its subcomponents interconnect
+APL,Automatic Program Load,A programming language typically used in mathematical systems. Often used to develop mathematical models
+APN,Access Point Name,"A configurable network identifier used by a mobile device when connecting to a GSM carrier, by using a computer protocol that typically allows a user's computer to access the internet using the mobile phone network."
+Apparatus,,Apparatus that has been approved for connection to public telecommunications systems and/or private telecommunications systems run under licence. 
+Applet,,Mini programs
+Appletalk,,The proprietary Local Network LAN architecture introduced by Apple in 1985. Supports Apple's LocalTalk as well as Ethernet and Token Ring. 
+Approved,,The Security Manager has investigated the issue or product and has determined the required levels of protection are provided. 
+Arbor,Kenan Arbor ,Fixed Enterprise billing system for data products such as IPVPN
+ARCHIE,,Derived from the word archive. Archie is an internet-distributed FTP search engine that acts as a 'super-directory' to files on the internet. Superceded by search engines in the main
+ARCNET,,Attached Resource Computer Network. One of the earliest LAN's introduced by Datapoint in 1968. Based on a star topology that connected up to 255 nodes at a speed of 2.5 Mbps over coaxial or twisted pair
+Area Code,,A prefix to telephone numbers that depicts a specific region or city for accessing its telephone subscribers. e.g. 0141 for Glasgow 
+ARFCN,Absolute Radio Frequency Channel Number ,
+ARP,Access Registration Point ,
+ARPU,Average Revenue Per User,Average Revenue Per User - The average amount our customers spend with us
+ARPU,Average Revenue Per User ,
+ARQ,Automatic Repeat Request,Communication technique in which the receiving device detects errors and requests retransmissions 
+AS,Access Seeker,
+ASA,Average Speed of Answer,The average time (typically in seconds) for calls to be answered in the call centre
+ASAP,Oracle Automatic Service Activation Program,"Service activation module for SIP Link, provisioning billing and mobile elements onto OPP"
+ASCII,American Standard Code for Information Interchange,A character encoding system for LANs. The 128 standard ASCII characters are composed of seven bits
+ASIC,,Application Specific Integrated Circuit. Implemented on IC technology
+ASMM,,Middletier system used to transport files to charge customer from systems in Spain (NGIN) to ICCS (Ireland)
+ASP,Application Service Provider,A company providing IT services for users who do not want to run all their own IT activities. ASPs run enterprise software on their own computers; companies access this over a telecommunications network. This field of activity can be referred to as applications hosting 
+ASP,Active Server Page,"also known as Classic ASP or ASP Classic, was Microsoft's first server-side script engine for dynamically generated web pages."
+ASP.Net,Active Server Page with .Net framework and technology.,"server-side Web application framework designed for Web development to produce dynamic Web pages. It was developed by Microsoft to allow programmers to build dynamic web sites, web applications and web services."
+ASQ,American Society for Quality,
+Assessment of Alternatives,,Assessment of Alternatives is the second stage of the Buying Cycle. This is the stage where the client or customer evaluates competing products and/or services against one another
+Assurance,,The level of confidence that a system has been implemented correctly
+Asynchronous Application,,"a Application that can run in the back ground or not synchronised with the calling applications. 
+I.e. the siRa Report Engine receives request to produce reports from siRa Web Applications (the calling app), the Report Engine will go off and allow siRa Web Applications and its users to perform other tasks while the Report Engine Asynchronously completes the task. It will then report back to the calling applications once the task is completed."
+Asynchronous Transmission,,Term describing digital signals that are transmitted without precise clocking. Such signals generally have different frequencies and phase relationships. Asychronous transmissions usually encapsulate individual characters in control bits called start and stop bits that designate the beginning and end of each character 
+AT&T,American Telephone & Telegraph Company ,
+ATM,Asynchronous Transfer Mode,A very high speed
+ATS,Adherence To Schedule,A general term that refers to how well agents adhere to their schedules.
+Attachment,,Refers to file embedded in an e-mail message. You can typically have one or more attachments in an e-mail message. 
+Attenuation,,Attenuation is measured in decibels
+Attribute,,HTML. Additional information which is included in tag e.g. you can specify the alignment of the images top
+AUC,ASSET UNDER CONSTRUCTION,
+AUI,Attachment Unit Interface,Usually refers to the 15 pin D type connector and cables used for connecting to an Ethernet transceiver. 
+AUP,Acceptable Use Policy,Many transit networks have policies that restrict the use to which the network can be put. Enforcement of AUPs varies with the network 
+Authentication,,"The process of verifying the identity of a user attempting to remotely access a system. The user must supply an authentication code e.g. password to gain entry. Typically perfomed by ""AAA"" systems. "
+Authoring Tools,,Software programs/multimedia applications for the easy creation of publications such as web sites on the Internet that includes tools for periodic modifications and updates. 
+Authorisation,,The process used to validate the eligibility of a user to perform certain electronic functions
+Availability,,The aspect of information security which ensures that information can be obtained when required 
+Availability,,The measure of a service’s actual operating time against the agreed service operating time measured by the Vodafone Incident Management system                                          Availability calculation = (Agreed service uptime (Service SLA) less planned outage time – Total service outage time)/ Agreed service uptime (SLA)
+Awareness of Needs,,Awareness of Needs is the first stage of the Buying Cycle. It is the stage where the client or customer recognises a need or dissatisfaction. 
+AXE,,Automatic Cross-connection Equipment also known as ACE. 
+B Channel,,"A circuit-switched ""bearer"" channel of ISDN interfaces"
+B2B,Business to Business,B2B is a short version of Business to Business. In effect it generally involves one company trying to do business to another compan
+B2C,Business to Consumer,B2C is a short version of Business to Consumer. In effect it generally involves one company trying to do business to the general public
+BABT,British Approvals Board for Telecommunications ,
+Back Office,Back Office,"Teams that are not part of the front line service desk.  Can consist of 1st, 2nd and 3rd Line teams.  Are technical based"
+Backbone Network,,A network with central cabling scheme linking it to other networks. Hosts on networks linked to the backbone can communicate with one another 
+Backlog,,list of things to be done
+BACS,Bureau Automatic Clearing System ,
+BACT,,Advisory Comittee on Telecommunications for small Business UK 
+BAIC,Barring of All Incoming Calls ,
+Balanced Line,,A transmission line which has two conductors of equal voltage but opposite in direction
+BALUN,,Balanced/Unbalanced. Device used for matching impedance between a balanced and an unbalanced line
+Band,,The range betwen the upper and lower frequencies in a transmitted signal. 
+Bandwidth,,The range of frequencies available for signalling; the difference between the highest and lowest frequencies of a band
+Bandwidth,,The information carrying capacity of a computer or communications channel
+Bandwidth,,Size of a provided Data / Voice Circuit in Mb
+Bandwidth Reservation,,Process of assigning bandwidth to users and applications served by a network. Involves assigning priority to different flows of traffic on how critical and delay-sensitive they are. This makes the best use of available bandwidth
+BAOC,Barring of All Calls ,
+BAPT,Bundesamt fur Post und Telekommunikatin ,Federal Office for Post & Telecommunication
+BARS,Bandwidth And Resource Savings,
+Base Station,,In cellular communications
+Baseband,,Describing the band of frequencies occupied by a signal below the point that the signal is modulated as an analogue carrier frequency. Also known as 'narrowband' 
+BASEC,British Approvals Servcie for Electric Cables ,
+BASIC,Beginner's All-purpose Symbolic Instruction Code,"a family of general-purpose, high-level programming languages"
+BAU,Business As Usual,
+BAU,Business As Usual,"A term to signify a normal everyday function or remit of the business area, i.e. Monthly reports for x customer is BAU."
+Baud,,A unit of modulation rate
+BBS,Bulletin Board System,A computer system that functions as a centralised information source and message system for a particular group of users 
+BCCH,Broadcast Control Channel ,
+BCD,Binary Coded Decimal,A binary coded notation in which each of the decimal digits is represented by a binary numeral 
+BCOU,Business Continuity Operations Unit,A centralised control team established to advise and facilitate the creation and maintenance of BCPs by business areas. This unit wll also be responsible for the authorising and auditing of all BCPs. 
+BCP,Business Continuity Plan,A cover sheet and one or more action lists to counter threats. May cover the restoration of one particular resource or the sustaining of one or several activities disrupted by the unavailability of resources. 
+BCS,,
+BDC,Billing Data Collector ,
+BELLCORE,Bell Communications Research,R&D organisation owned by Regional Bell Operating Companies RBOC established in 1984 at the time of the Divestiture of AT&T. 
+Benchmark,,A performance test to evaluate the capacity of computers
+BER,Bit Error Rate,"The basic method for measuring transmission quality in terms of ""bits in error"" as received at destination also used to assess the effectiveness of error correction methods. "
+BEST,Billling Enquiry System Tracker ,
+BGP,Border Gateway Protocol,Employed by routers to exchange apropriate levels of information between communication networks and ISPs. 
+BHCA,Busy Hour Call Attempts,A traffic engineering term referring to the number of call attempts made during the busiest hour of the day. 
+BI,business intelligence,
+BIA,Business Impact Analysis,A management level analysis which identifies the impacts of business interruption. The BIA measures the effect of resource loss and escalating losses over time in order to provide senior management with reliable data upon which to base decisions on risk mitigation and continuity planning. 
+Bid,,A document prepared in response to an inquiry
+Bi-directional,,A link's ability to transmit in both directrions. If a link is only one-way e.g. Cable TV
+Billing Enquiry OMARS,,Change to customer biling requirements. 
+Billing Query eform,,Change to customers biling requirements 
+Binary,,Binary
+BIP,BUSINESS INTELLIGENCE PUBLISHER,
+BIPT,Belgian Institute for Posts and Telecommunications. ,
+BIS,,Brought Into Service date. 
+BISDN/B-ISDN,,Broadband ISDN-The specification for high speed ISDN deliverying data
+BISUP,,Broadband ISDN
+Bit,,"A binary digit. A single digit in a binary code that has a value of either ""zero"" a space or ""one"" a mark . It is the smallest unit of data a computer can process. "
+Bit Stuffing,,A process of adding bits to a transmitted message in order to break up a pattern that could be misinterpreted as control bytes
+Bits/sec,,Bits per second. Unit of data transmission rate. A measure of information transfer rate of a data channel. 
+Blank & Burst,,A technique of holding a status call blank until all the information contained in the message is accumulated and then sending it in short high speed bursts. Normally used automaticaly when a dispatcher is engaged in a speech call. The status call is received during the speech call and is immediately stacked. 
+BLERT,Block Error Rate Test ,
+Block,,A group of bits or bytes transmitted to the same destination as a single entity that can contain a vast amount of bits. Transmission is tracked at a block level by counting the number of blocks in error and the number of blocks per second the line can sustain without advsersely affecting performance. 
+BLU,,Blue 
+Bluetooth,,Wireless standard for short-range radio communications between a variety of devices such as PCs
+BMP,,Bitmap.A popular Windows format for image files. 
+Boolean,,Refers to something that can be true or false. A checkbox is a good way for a form to get a true or false answer from a user. 
+BoQ,Bill of Quantities ,
+BOXI,,web based interface for creating business intelligence SQL Query reports and Dashboards also scheduling reports delivery etc.
+BPA,BUSINESS PROCESS AUTOMATION,
+BPI,Bytes Per Inch,Defines the number of bytes per inch either on a recording surface
+BPM,BUSINESS PERFORMANCE MANAGEMENT,
+BPS,Bits per Second,Measures the speed of transmission in accordance withthe number of bits transmitted over the line every second. The letters K 1
+BQA,Billing Query Archive,"Billing Tool that reports on billing queries to show those that have been created, closed or remain open given specific date criteria"
+BQF,,British Quality Foundation 
+BRI,Basic Rate interface,"Basic Rate interface in ISDN. One of the two subscriber ""interfaces"" in ISDN the other being Primary Rate Interface. BRI incorporates two bearer B-channels at 64-Kbps full duplex-designed for PCM voice"
+Bridge,,A data communications device that provides fast connection and forwards packets between two or more networks. It operates at the data-link layer of the OSI model. Classifications include source routing bridges for IBM environments
+BrixWorx,Network Utilisation app,Reporting on PSN Network utilisation & performance
+BRM,Billing and Revenue Management,Billing and Revenue Management
+BRM,Business Review Meeting,
+BRM,BILLING AND REVENUE MANAGEMENT,
+BRN,,Brown 
+Broadband,,A service or connection generally defined as being 'always on'
+Broadcast,,Simultanous one-way transmission of content to any number of receiving stations. 
+Brought Into Service Data,,The date that a working system is connected to the public network and is handed over to the customer. 
+Browser,,A software program designed to enable users to visit web sites
+BRS,Business Requirement Specification,
+BRS,BUSINESS REQUIREMENTS SPECIFICATION,
+BRT,Business Recovery Team,A team established to support the EMT. They are responsible for the invoking of business continuity plans for appropriate business areas and for day to day liaison with staff
+BS,Base Station ,
+BS,Bearer Services ,
+BS,British Standards ,
+BSC,Base Station Controller ,
+BSC,Binary Synchronous Communication,A synchronous protocol used in mainframe computers for transferring data
+BSDR,Bulk serivce Data Receipt,An application at the IN Platform that sends out RAR's to confirm that SAR's have been processed. 
+BSDU,,Bulk serivce Data Update sBSDU stand for standby Bulk Service Data Update. An application at the IN Platform that processes the SAR's that are tobe activated on the IN Platform. 
+BSG,Broadband Stakeholders Group ,
+BSGL,Branch Systems General Licence UK ,
+BSI,British Standard Institution. ,
+BSIC,Base Transceiver Station Identity Code. ,
+BSL,British Sign Language,
+BSM,Billing Stage Metrics,Tool to show the age buskets of DIQ and shows liability costs to the business
+B-SMS,Bytel Subscriber Management System ,
+BSS,Base Station Subsystem,
+BSS,BUSINESS SUPPORT SYSTEM,
+BSSMAP,Base Station System Mangement Application Part. ,
+BST,British Summer Time,
+BST,British Summer Time,GMT +1 hour for duration of the British Summer Time Period.
+BST,BUSINESS SUPPORT TEAMS,
+BSTN,,Bast Station 
+BSY,,Busy 
+BT,British Telecommunications,British Telecommunications plc as used by ETSI or British Telecom 
+BTDF,British Telecommunictions Distribution Frame ,
+BTE,Base Terminating Equipment ,
+BTNR,British Telecom Network Requirement ,
+BT-NTE5,,BT Network Termination Unit 
+BTR,British Telecom Requirement ,
+BTS,Base Transceiver Station,
+Buffer,,A temporary storage location in the computers memory to hold data while it is being processed. 
+Bundle (Out of Bundle),Bundle (Out of Bundle),"A combination of different services a customer receives  within their contract, such as voice minutes, texts and mobile data. (out of bundle is all cost, on top of the contract, such as additional minutes/data, when you used your pre-determined minutes) "
+Bundling,,Linking the purchase of one product or service to another
+BURP,Bring Up Routine Protocol,This detects via RADIUS accounting when a customer has connected to the THUS network and configures the necessary routing to the customers static IP address and initiates the mailkick process. 
+Bursting,Automatic generation of BOXI Reports to multiple recipients,Creating multiple identical format reports but each with information filtered for each recipient from a single BOXI query
+Burstmode,,A method of execuring immediate high-speed transmission of a continuous block of data without interruption until the transfer is completed. 
+Bus,,A comon path or channel between multiple devices that are connected to the same computer system. 
+Business Continuity,,The management of risks to THUS arising from malfunction or loss of its resources. Involves identification of potential threats
+Business Emergency,,A business emergency is the state of an incident which is declared and managed accordingly. 
+Business Incident Planning Guidelines,,This is a document which the BCOU has constructed to assist your business area in preparation for emergency situations and to define specific roles and responsibilities during such an occurrence. 
+Business Intelligence,,set of techniques and tools for the transformation of raw data into meaningful and useful information for business analysis purposes
+Business Risk,,The chance of a possibility of loss or harm to the business interests of the organisation. 
+Buying Cycle,,The Buying Cycle describes the four distinct stages most clients or customers go through when they embark on the process of making a buying decision. The stages are: Awareness of Needs
+BWOW,Better ways of working ,"Better ways of working - Better ways of working - Our approach as an organisation of how to work effectively. Utilising hot desks, laptops, phones and a variety of other changes to make our people flexible and mobile."
+Byte,,A set of bits representing a value in a computer coding scheme. The most common is the 8-bit tyre as used in ASCII comprising 7 information bits and 1 parity bit for error control. 
+BZT,Bundesamf fur Zulassungen in der Telecommunidation,Federal Office for Telecommunication Approvals
+C & I,Communications & Instrumentation. ,
+C&C,Control and Command,Two major categories of electronic systems
+C/C++,,"One of the most popular high-level programming languages. ""C++"" combines all the advantages of the ""C"" language with object oriented features that assure easy portability to different platforms. "
+C/N,,Carriage to Noise Ratio 
+CAB,CAPITAL APPROVAL BOARD,
+Cable Categories,,The categories in the attached table are based on their transmission capacity. In order to support faster networks. Category 5 UTP wire is favoured for most new installations. 
+Cable Modem,,A modem that sits in the customer premises and is designed for use on coaxial cables that is a one-way broadcast service
+CAC,Connection Admission Control,Set of actions taken by each ATM switch during connection setup in order to determine whether a connection's requested QoS will violate the QoS guarantees for established connections. CAC is also used when routing a connection request through an ATM network. 
+Cache,,Generally a small chunk of fast memory. Most computers have cache memory that holds some of the information from main memory. When the processor needs the information it tiakes it from more speedy cache instead of the slower main memory. Cache memory greatly increases the speed of a computer storing data that is most often accessed. 
